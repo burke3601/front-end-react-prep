@@ -33,3 +33,7 @@ Practically speaking, the best thing to do is use async and await
 Use `Promise.all()`, which will "await" for an Array of Promises to finish.
 
 
+
+
+When you call fetch() it returns a promise.
+A promise is then awaitable
